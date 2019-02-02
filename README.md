@@ -30,6 +30,14 @@ A block quote:</br>
 Quote break.</br>
 
 > This is a very long line that will still be quoted properly when it wraps. Oh boy let's keep writing to make sure this is long enough to actually wrap for everyone. Oh, you can *put* **Markdown** into a blockquote.
+> ## This is a header.
+> 
+> 1.   This is the first list item.
+> 2.   This is the second list item.
+> 
+> Here's some example code:
+> 
+>     return shell_exec("echo $input | $markdown_script");
 
 </br></br>
 
@@ -72,7 +80,8 @@ A table:</br>
   </tr>
 </table>
 
-
+**Bolded** text:
+<b>BOLDED!!!</b>
 
 
 Hello **World** yah!
