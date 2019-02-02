@@ -81,13 +81,13 @@ A table:</br>
 </table>
 <br><br>
 
-**Bolded** text:
+**Bolded** text:<br>
 <b>BOLDED!!!</b><br><br>
 
-_Italicized_ text:
+_Italicized_ text:<br>
 <i>Italicized!!!</i><br><br>
 
-~~Strikethrough~~ text:
+~~Strikethrough~~ text:<br>
 <s>Strikethrough!!!</s><br><br>
 
 
