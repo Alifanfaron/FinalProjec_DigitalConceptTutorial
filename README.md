@@ -5,8 +5,9 @@ Project for markdown challenge.
 
 Hello **World** yah!
 
-[Dale Musser](https://dalemusser.com)
+[Heading to Second Page](second.md)
 
-[Bay Bridge](http://www.baybridgeinfo.org/sites/default/files/styles/Poster600337/public/images/implosion_3.jpg?itok=keFIbNiu)
+[Dale Musser's HomePage](https://dalemusser.com)
 
-[Second Page](second.md)
+![Bay Bridge](http://www.baybridgeinfo.org/sites/default/files/styles/Poster600337/public/images/implosion_3.jpg?itok=keFIbNiu)
+
