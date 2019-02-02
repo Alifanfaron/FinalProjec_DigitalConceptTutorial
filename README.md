@@ -14,7 +14,7 @@ A link between markdown pages. Link from README.md to the second markdown file a
 [Heading to Third Page](third.md)
 
 An image that is a file in the directory:
-![An image that is a file in the directory](A image file.png)
+![An image that is a file in the directory](MarkdownHubert/A image file.png)
 
 
 
