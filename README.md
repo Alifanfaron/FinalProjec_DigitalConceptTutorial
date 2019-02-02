@@ -1,11 +1,25 @@
 # MarkdownHubert
 Project for markdown challenge.
 
-<https://dalemusser.com>
+
+
+## An H2 sized header.
+
+#### An H4 sized header.
+
+A link to an external web site: <https://dalemusser.com>:
+
+A link between markdown pages. Link from README.md to the second markdown file and from the second markdown file back to the README.md:
+[Heading to Second Page](second.md)
+[Heading to Third Page](third.md)
+
+An image that is a file in the directory:
+
+
+
+
 
 Hello **World** yah!
-
-[Heading to Second Page](second.md)
 
 [Dale Musser's HomePage](https://dalemusser.com)
 
