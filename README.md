@@ -30,11 +30,10 @@ A code block with syntax highlighting for the programming language:</br>
 s = "Python syntax highlighting"
 print s
 ```
-<code>
+<pre><code>
 s = "Python syntax highlighting"
-<br>
 print s
-</code>
+</code></pre>
 
 
 
