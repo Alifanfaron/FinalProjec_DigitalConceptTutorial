@@ -30,10 +30,15 @@ A code block with syntax highlighting for the programming language:</br>
 s = "Python syntax highlighting"
 print s
 ```
-<pre><code>
-s = "Python syntax highlighting"
-print s
-</code></pre>
+<pre><code>s = "This seems to be another code block of Python syntax highlighting"
+print s</code></pre>
+
+> Blockquotes are very handy in email to emulate reply text.
+> This line is part of the same quote.
+
+Quote break.
+
+> This is a very long line that will still be quoted properly when it wraps. Oh boy let's keep writing to make sure this is long enough to actually wrap for everyone. Oh, you can *put* **Markdown** into a blockquote. 
 
 
 
