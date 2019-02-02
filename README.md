@@ -25,14 +25,17 @@ An image that is a file in the directory:</br>
 An image that is located on the web (not a file in the directory):</br>
 ![An image that is located on the web: Bay Bridge](http://www.baybridgeinfo.org/sites/default/files/styles/Poster600337/public/images/implosion_3.jpg?itok=keFIbNiu "this is the title text of the image that is located on the web that you succeed in hovering to see")
 
+
 A code block with syntax highlighting for the programming language:</br>
 ```python
 s = "Python syntax highlighting"
 print s
 ```
 <pre><code>s = "This seems to be another code block of Python syntax highlighting"
-print s</code></pre>
+print s</code></pre></br></br>
 
+
+A block quote:</br>
 > Blockquotes are very handy in email to emulate reply text.
 > This line is part of the same quote.
 
