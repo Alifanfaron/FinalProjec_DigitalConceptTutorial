@@ -90,6 +90,7 @@ _Italicized_ text:<br>
 ~~Strikethrough~~ text:<br>
 <s>Strikethrough!!!</s><br><br>
 
+<hr><hr><hr><hr><hr><hr><hr><hr><hr><hr>
 
 Hello **World** yah!
 
