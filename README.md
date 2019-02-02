@@ -26,7 +26,9 @@ print s</code></pre></br></br>
 A block quote:</br>
 > Blockquotes are very handy in email to emulate reply text.
 > This line is part of the same quote.</br>
+
 Quote break.</br>
+
 > This is a very long line that will still be quoted properly when it wraps. Oh boy let's keep writing to make sure this is long enough to actually wrap for everyone. Oh, you can *put* **Markdown** into a blockquote.
 </br></br>
 
