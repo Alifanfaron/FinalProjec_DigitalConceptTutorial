@@ -90,11 +90,24 @@ _Italicized_ text:<br>
 ~~Strikethrough~~ text:<br>
 <s>Strikethrough!!!</s><br><br>
 
+***
+<br>
+***
+
+***
+<br>
+***
+
+***
 <hr><hr><hr><hr><hr><hr><hr><hr><hr><hr>
 
 Hello **World** yah!
 
 [Dale Musser's HomePage](https://dalemusser.com)
+
+<br>
+
+1
 
 
 
