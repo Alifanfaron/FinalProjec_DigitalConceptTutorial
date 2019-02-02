@@ -79,9 +79,16 @@ A table:</br>
     <td>94</td>
   </tr>
 </table>
+<br><br>
 
 **Bolded** text:
-<b>BOLDED!!!</b>
+<b>BOLDED!!!</b><br><br>
+
+_Italicized_ text:
+<i>Italicized!!!</i><br><br>
+
+~~Strikethrough~~ text:
+<s>Strikethrough!!!</s><br><br>
 
 
 Hello **World** yah!
