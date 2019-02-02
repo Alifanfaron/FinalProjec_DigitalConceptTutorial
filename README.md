@@ -33,12 +33,32 @@ Quote break.</br>
 
 </br></br>
 
-Bulleted List:</br>
+Numbered List:</br>
 <ol>
 <li>Bird</li>
 <li>McHale</li>
 <li>Parish</li>
+<li>Hubert</li>
 </ol>
+
+</br></br>
+
+Bulleted List:</br>
+<ul>
+<li>Bird</li>
+<li>McHale</li>
+<li>Parish</li>
+<li>Hubert</li>
+</ol>
+
+</br></br>
+
+A table:</br>
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
 
 
 
