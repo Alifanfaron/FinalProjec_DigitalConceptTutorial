@@ -32,9 +32,13 @@ print s
 ```
 <code>
 s = "Python syntax highlighting"
-</br>
+<br>
 print s
 </code>
+
+
+
+
 
 
 Hello **World** yah!
