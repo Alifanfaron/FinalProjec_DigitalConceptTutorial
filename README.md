@@ -1,7 +1,7 @@
 # MainTitle: Digital Concept Tutorial by Hubert</br>
 Project for markdown challenge.</br></br></br>
-## An H2 sized header.</br></br>
-#### An H4 sized header.</br></br>
+This project provides experience in using markdown, Git/GitHub and digital concepts, that is to say, it is a course for beginners based on the some experiences of markdown, Git/GitHub and digital concepts that I have learned.</br>
+
 A link to an external web site:</br>
 <https://dalemusser.com></br></br>
 A link between markdown pages. Link from README.md to the second markdown file and from the second markdown file back to the README.md:</br>
@@ -81,27 +81,14 @@ A table:</br>
 </table>
 <br><br>
 
-**Bolded** text:<br>
-<b>BOLDED!!!</b><br><br>
-
-_Italicized_ text:<br>
-<i>Italicized!!!</i><br><br>
-
-~~Strikethrough~~ text:<br>
-<s>Strikethrough!!!</s><br><br>
-
+***
+***
 ***
 <br>
-***
-
-***
 <br>
-***
+<hr><hr><hr>
 
-***
-<hr><hr><hr><hr><hr><hr><hr><hr><hr><hr>
 
-Hello **World** yah!
 
 [Dale Musser's HomePage](https://dalemusser.com)
 
