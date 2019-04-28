@@ -14,33 +14,6 @@ An image that is a file in the directory:</br>
 An image that is located on the web (not a file in the directory):</br>
 ![An image that is located on the web: Bay Bridge](http://www.baybridgeinfo.org/sites/default/files/styles/Poster600337/public/images/implosion_3.jpg?itok=keFIbNiu "this is the title text of the image that is located on the web that you succeed in hovering to see")</br></br>
 
-A code block with syntax highlighting for the programming language:</br>
-```python
-s = "Python syntax highlighting"
-print s
-```
-</br>
-<pre><code>s = "This seems to be another code block of Python syntax highlighting"
-print s</code></pre></br></br>
-
-A block quote:</br>
-> Blockquotes are very handy in email to emulate reply text.
-> This line is part of the same quote.</br>
-
-Quote break.</br>
-
-> This is a very long line that will still be quoted properly when it wraps. Oh boy let's keep writing to make sure this is long enough to actually wrap for everyone. Oh, you can *put* **Markdown** into a blockquote.
-> ## This is a header.
-> 
-> 1.   This is the first list item.
-> 2.   This is the second list item.
-> 
-> Here's some example code:
-> 
->     return shell_exec("echo $input | $markdown_script");
-
-</br></br>
-
 Numbered List:</br>
 <ol>
 <li>Bird</li>
@@ -93,8 +66,5 @@ A table:</br>
 [Dale Musser's HomePage](https://dalemusser.com)
 
 <br>
-
-1
-
 
 
