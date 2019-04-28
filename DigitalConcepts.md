@@ -1,47 +1,23 @@
-# This is the Fourth Page</br>
-Read after me: Again! This is the third Page!</br></br></br>
-## An H2 sized header.</br></br>
-#### An H4 sized header.</br></br>
-A link to an external web site:</br>
-<https://dalemusser.com></br></br>
+# DigitalConcepts</br>
+Project for markdown challenge.</br></br></br>
+This project provides experience in using markdown, Git/GitHub and digital concepts, that is to say, it is a course for beginners based on the some experiences of markdown, Git/GitHub and digital concepts that I have learned.</br>
+
+
+
+Markdown grammar is fully compatible with HTML grammar - that is to say, in GitHub's .md page, it's entirely feasible to use HTML grammar alone to express what you want to achieve.</br>
+
+The goal of Markdown grammar is to become a writing language suitable for the network. Markdown does not want to replace HTML, or even be close to it. It has very few kinds of grammar, which corresponds to only a small part of HTML tags. Markdown's idea is not to make HTML documents easier to write. In my opinion, HTML is already easy to write. The idea of Markdown is to make documents easier to read, write and change at will. HTML is a publishing format and Markdown is a writing format. In this way, Markdown's format grammar covers only what plain text can cover. Tags that are not covered by Markdown can be written in HTML directly in the document. There's no need to label this as HTML or Markdown; just label it directly. Only some HTML block elements, such as &#60;div&#62;, &#60;table&#62;, &#60;pre&#62;, &#60;p&#62; tags, must be separated from other content areas by blank lines before and after, and their start and end tags must not be indented by tabs or spaces. Markdown's generator is smart enough not to add unnecessary &#60;p&#62; tags to HTML block tags.</br>
+
 A link between markdown pages. Link from README.md to the second markdown file and from the second markdown file back to the README.md:</br>
+
 [Back to README.md - Home Page](README.md)</br>
 [Heading to Markdown Language](MarkdownLanguage.md)</br>
 [Heading to Git/GitHub Concepts](GitOrGitHubConcepts.md)</br>
 [Heading to Digital Concepts](DigitalConcepts.md)</br></br>
 
-An image that is a file in the directory:</br>
-![An image that is a file in the directory](https://github.com/Alifanfaron/MarkdownHubert/blob/master/A%20image%20file.png "this is the title text that you succeed in hovering to see")</br></br>
 
 An image that is located on the web (not a file in the directory):</br>
 ![An image that is located on the web: Bay Bridge](http://www.baybridgeinfo.org/sites/default/files/styles/Poster600337/public/images/implosion_3.jpg?itok=keFIbNiu "this is the title text of the image that is located on the web that you succeed in hovering to see")</br></br>
-
-A code block with syntax highlighting for the programming language:</br>
-```python
-s = "Python syntax highlighting"
-print s
-```
-</br>
-<pre><code>s = "This seems to be another code block of Python syntax highlighting"
-print s</code></pre></br></br>
-
-A block quote:</br>
-> Blockquotes are very handy in email to emulate reply text.
-> This line is part of the same quote.</br>
-
-Quote break.</br>
-
-> This is a very long line that will still be quoted properly when it wraps. Oh boy let's keep writing to make sure this is long enough to actually wrap for everyone. Oh, you can *put* **Markdown** into a blockquote.
-> ## This is a header.
-> 
-> 1.   This is the first list item.
-> 2.   This is the second list item.
-> 
-> Here's some example code:
-> 
->     return shell_exec("echo $input | $markdown_script");
-
-</br></br>
 
 Numbered List:</br>
 <ol>
@@ -83,33 +59,17 @@ A table:</br>
 </table>
 <br><br>
 
-**Bolded** text:<br>
-<b>BOLDED!!!</b><br><br>
-
-_Italicized_ text:<br>
-<i>Italicized!!!</i><br><br>
-
-~~Strikethrough~~ text:<br>
-<s>Strikethrough!!!</s><br><br>
-
+***
+***
 ***
 <br>
-***
-
-***
 <br>
-***
+<hr><hr><hr>
 
-***
-<hr><hr><hr><hr><hr><hr><hr><hr><hr><hr>
 
-Hello **World** yah!
 
 [Dale Musser's HomePage](https://dalemusser.com)
 
 <br>
-
-1
-
 
 
