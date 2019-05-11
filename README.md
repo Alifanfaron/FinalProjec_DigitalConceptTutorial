@@ -1,4 +1,7 @@
-# Main Page: Some Digital Concepts' Tutorial by Hubert</br>
+# Title of the tutorial: Some Digital Concepts' Tutorial by Hubert - Main Page</br>
+
+</br><b>Author of the tutorial: Hubert Huang</b>
+
 Project for markdown challenge.</br></br></br>
 This project provides experience in using markdown, Git/GitHub and digital concepts, that is to say, it is a course for beginners based on the some experiences of markdown, Git/GitHub and digital concepts that I have learned.</br>
 
