@@ -23,7 +23,7 @@ making it the largest host of source code in the world.
 <b><a href="https://youtu.be/ZdyeVhBn0Yw" target="_blank">2. Git and GitHub Using the Command Line</a></b><br>
 <b><a href="Git GitHub and Markdown" target="_blank">3. Git, GitHub, and Markdown Challenge</a></b><br>
 
-<b>From the links below, you can jump to the interface of the theme you want!</b>
+<b>From the links below, you can jump to the interface of the theme you want!</b><br>
 [Back to README.md - Home Page](README.md)</br>
 [Heading to Markdown Language](MarkdownLanguage.md)</br>
 [Heading to Digital Concepts](DigitalConcepts.md)</br></br>
