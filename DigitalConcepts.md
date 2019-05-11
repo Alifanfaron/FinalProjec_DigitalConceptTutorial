@@ -8,11 +8,19 @@ The goal of Markdown grammar is to become a writing language suitable for the ne
 
 
 Here are some links that can help you learn digital concepts:
-<b><a href="https://content.techinnovator.info/courses/INFOTC2600/info/Digital%20Information/Digital%20Information.html" target="_blank">1. Digital Information</a></b><br>
+<br><b><a href="https://content.techinnovator.info/courses/INFOTC2600/info/Digital%20Information/Digital%20Information.html" target="_blank">1. Digital Information</a></b><br>
+
 <b><a href="https://content.techinnovator.info/mu/sp19/INFOTC2600/Digital%20Images/Digital%20Images.html" target="_blank">2. Digital Images</a></b><br>
 
+<b><a href="https://en.wikipedia.org/wiki/Sound" target="_blank">3. Digital Audio</a></b><br>
 
-<br><br><br><b>You may also learn markdown through the cheatsheet (just click the picture):<a href="https://www.markdowntutorial.com/" target="_blank"><img src="https://steemitimages.com/640x0/http://i.imgsafe.org/6df7dd2d0a.png" width="15%"  /></a></b><br><br><br>
+<b><a href="https://en.wikipedia.org/wiki/Computer_network" target="_blank">4. Digital Networks</a></b><br>
+
+<b><a href="https://content.techinnovator.info/mu/sp19/INFOTC2600/Digital%20Video/Digital%20Video.html" target="_blank">5. Digital Videos</a></b><br>
+
+<b><a href="https://content.techinnovator.info/mu/sp19/INFOTC2600/Digital%20Displays/Digital%20Displays.html" target="_blank">6. Digital Displays</a></b><br>
+
+
 
 
 
