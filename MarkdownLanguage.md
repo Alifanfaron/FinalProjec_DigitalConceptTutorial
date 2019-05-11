@@ -9,6 +9,10 @@ The goal of Markdown grammar is to become a writing language suitable for the ne
 
 <br><br><br><b>Intelligent markdown tutorial, click here:<a href="https://www.markdowntutorial.com/"><img src="markdown tutorial.png" /></a></b><br><br><br>
 
+<br><br><br><b>You may also learn markdown through the cheatsheet: <a href="https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet"><img src="https://steemitimages.com/640x0/http://i.imgsafe.org/6df7dd2d0a.png" style="width:5%" /></a></b><br><br><br>
+
+
+
 
 <b>From the links below, you can jump to the interface of the theme you want!</b>
 
